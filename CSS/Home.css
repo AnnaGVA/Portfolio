@@ -1,0 +1,56 @@
+/*header style*/
+header {
+   text-align: justify;  
+   padding: 8px;
+   background-color: whitesmoke;
+}
+/*body style*/
+body {
+text-align: center;
+font-family: 'Reem Kufi Fun', sans-serif;
+color: #DBE560;
+background-color: #9D77B4;
+}
+/*navigation menu style*/
+.nav {
+   text-align: right;
+   word-spacing: 50px;
+   padding: 10px;
+
+/*creating the two-column layout*/
+.nav {
+    box-sizing: "border-box"
+}
+.profile {
+   flex: 70%;
+   padding: 10px;
+}
+/*profile image and heading style*/
+.profile img {
+   width: 120px;
+   display: block;
+   margin-left: 0;
+   margin-right: 0;
+}
+.profile h1 {
+   text-align: center;
+}
+/*navigation bar style*/
+nav {
+   text-align: center;
+   word-spacing: 30px;
+   padding: 10px;
+   font-family: Helvetica;
+}
+/*navigation bar button style*/
+.nav a {
+   color: #9D77B4;
+   text-decoration: none;
+   font-size: larger;
+}
+/*footer style*/
+footer {
+   text-align: center; 
+   padding: 20px;
+   color: #000000;
+  }
